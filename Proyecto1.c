@@ -2,7 +2,7 @@
     Nombre de Alumnos: Mario Ivan Jimenez Alfaro #727740
                        Benjamin Gil Flores #727211
                        Alejandro
-                       Carlos
+                       Carlos Manuel Alanis Peña #732148
     Fecha: 10 de Octubre 2020
     Materia: Estructura de Datos
     Programa: Proyecto 1
